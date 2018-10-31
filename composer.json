@@ -1,0 +1,22 @@
+{
+    "name": "bastardijke/yii2-reeljs",
+    "description": "jQuery Reel widget for Yii2.",
+    "type": "yii2-extension",
+    "keywords": [ "yii", "yii2", "yii 2", "extension", "widget", "jquery reel", "reel js" ],
+    "homepage": "https://github.com/bastardijke/yii2-reeljs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bastardijke",
+            "homepage": "https://github.com/bastardijke",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bastardijke/yii2-reeljs/issues",
+        "source": "https://github.com/bastardijke/yii2-reeljs"
+    },
+    "require": {
+        "yiisoft/yii2": "^2.0.0"
+    }
+}
