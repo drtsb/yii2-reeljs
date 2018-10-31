@@ -1,5 +1,4 @@
 # yii2-reeljs
-jQuery Reel plugin for Yii2 Framework
 
 Renders a [jQuery Reel plugin](http://reel360.org/) widget
 
